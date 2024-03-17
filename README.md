@@ -1,10 +1,10 @@
 # Material Design Cursors (Canary)
 
 _Project status: In progress..._
-<div align="middle">
-  <img id="example_anims" src="README_banner_dark.webp" alt="Example anims" />
-</div>
-Cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large)
+
+<img style="margin: 100px 0px;" id="example_anims" src="README_banner_dark.webp" alt="Example anims" />
+
+Cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large).
 
 Only two states are animated - "busy" and "work".
 <details><summary>(click to open demo)</summary>
