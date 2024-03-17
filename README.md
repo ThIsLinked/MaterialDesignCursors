@@ -2,6 +2,8 @@
 
 _Project status: In progress..._
 
+<img id="example_anims" align="center" src="README_banner_dark.webp" alt="Example anims" />
+
 Cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large)
 
 Only two states are animated - "busy" and "work".
