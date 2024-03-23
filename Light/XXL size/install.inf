@@ -54,8 +54,8 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 "pin.cur"
 
 [Strings]
-CUR_DIR = "Cursors\Material Dark XXL"
-SCHEME_NAME = "Material Dark XXL"
+CUR_DIR = "Cursors\Material Light XXL"
+SCHEME_NAME = "Material Light XXL"
 pointer = "pointer.cur"
 help = "help.cur"
 work = "work.cur"
