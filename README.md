@@ -1,7 +1,4 @@
-# Material Design Cursors (Canary)
-
-_Project status: In progress..._
-
+# Material Design Cursors
 <img id="example_anims" src="README_banner_dark.webp" alt="Example anims" />
 
 Windows cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large).
