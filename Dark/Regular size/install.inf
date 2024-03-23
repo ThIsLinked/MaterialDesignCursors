@@ -1,10 +1,10 @@
 [Version]
-signature="$CHICAGO$"
+signature = "$CHICAGO$"
 Material Design dark cursors by ThIsLinked
 
 [DefaultInstall]
 CopyFiles = Scheme.Cur
-AddReg    = Scheme.Reg,Wreg
+AddReg = Scheme.Reg,Wreg
 
 [DestinationDirs]
 Scheme.Cur = 10,"%CUR_DIR%"
@@ -37,8 +37,8 @@ HKLM,"SOFTWARE\Microsoft\Windows\CurrentVersion\Runonce\Setup\","",,"rundll32.ex
 [Scheme.Cur]
 "pointer.cur"
 "help.cur"
-"work.ani"
-"busy.ani"
+"work.cur"
+"busy.cur"
 "cross.cur"
 "text.cur"
 "handwriting.cur"
@@ -58,8 +58,8 @@ CUR_DIR = "Cursors\Material Dark"
 SCHEME_NAME = "Material Dark"
 pointer = "pointer.cur"
 help = "help.cur"
-work = "work.ani"
-busy = "busy.ani"
+work = "work.cur"
+busy = "busy.cur"
 cross = "cross.cur"
 text = "text.cur"
 hand = "handwriting.cur"
