@@ -17,7 +17,7 @@ If you suddenly want to delete these cursors, then in the mouse pointer settings
 
 # Gratitude
 
-**Thanks [**jepricreations**](https://www.deviantart.com/jepricreations) (aka **rosea92**) for the idea in the original arts.**
+Thanks [**jepricreations**](https://www.deviantart.com/jepricreations) (aka **rosea92**) for the idea in the original arts.
 
 # License
 ```
