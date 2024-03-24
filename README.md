@@ -1,7 +1,5 @@
 # Material Design Cursors
-<div id="test">
-  <img id="banner" src="README_banner.webp" alt="Banner image" />
-</div>
+<img id="banner" src="README_banner.webp" alt="Banner image" />
 Windows cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large).
 
 ## What's included in the package?
