@@ -1,7 +1,7 @@
 # Material Design Cursors
 <img id="banner" src="README_banner.webp" alt="Banner image" />
 
-Windows cursors in Material Design style. Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large).
+<div id="test">Windows cursors in Material Design style.</div> Light and dark theme. There are three sizes to choose from: regular (as medium), XL (large) и XXL (very large).
 
 ## What's included in the package?
 There are all variations available for Windows. They are all static. _I gave up on animating due to the high degree of tediousness (6 cursors, each 51 frames = 306 times I need to manually render rasters – it's hard). Thank you for reminding._
